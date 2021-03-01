@@ -1,0 +1,24 @@
+{
+
+    "lang.currentWeather":"वर्तमान मौसम",
+    "lang.loc":"स्थान",
+    "lang.temp":"तापमान",
+    "lang.press":"दबाव",
+    "lang.humd":"नमी",
+    "lang.wind":"हवा की गति",
+    "lang.newsweather":"समाचार और मौसम की रिपोर्ट",
+    "lang.button.en":"अंग्रेज़ी",
+    "lang.button.ma":"मलयालम",
+    "lang.button.ta":"तामिल",
+    "lang.button.te":"तेलुगू",
+    "lang.button.hi":"हिन्दी",
+    "lang.localnews": "समाचार",
+    "lang.search":"टॉपिक्स को खोजें",
+    "lang.sear":"खोज",
+    "lang.choose":"भाषा चुनें",
+    "lang.datepublished":"प्रकाशित तिथि",
+    "lang.readfull":"पूरा लेख पढ़ें"
+
+
+
+}

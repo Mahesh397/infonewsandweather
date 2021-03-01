@@ -1,0 +1,25 @@
+{
+
+    "lang.currentWeather":"നിലവിലെ കാലാവസ്ഥ",
+    "lang.loc":"സ്ഥാനം",
+    "lang.temp":"താപനില",
+    "lang.press":"സമ്മർദ്ദം",
+    "lang.humd":"ഈർപ്പം",
+    "lang.wind":"കാറ്റിന്റെ വേഗത",
+    "lang.newsweather":"വാർത്തകളും കാലാവസ്ഥാ റിപ്പോർട്ടും",
+    "lang.button.en":"ഇംഗ്ലീഷ്",
+    "lang.button.ma":"മലയാളം",
+    "lang.button.ta":"തമിഴ്",
+    "lang.button.te":"തെലുങ്ക്",
+    "lang.button.hi":"ഹിന്ദി",
+    "lang.localnews": "വാർത്ത",
+    "lang.search":"വിഷയങ്ങൾക്കായി തിരയുക",
+    "lang.sear":"തിരയുക",
+    "lang.choose":"ഭാഷ തിരഞ്ഞെടുക്കുക",
+    "lang.datepublished":"തീയതി പ്രസിദ്ധീകരിച്ചു",
+    "lang.readfull":"മുഴുവൻ ലേഖനവും വായിക്കുക"
+
+
+
+
+}
