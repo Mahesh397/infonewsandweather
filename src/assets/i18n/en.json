@@ -1,0 +1,24 @@
+{
+
+    "lang.currentWeather":"Current weather",
+    "lang.loc":"Location",
+    "lang.temp":"Temperature",
+    "lang.press":"Pressure",
+    "lang.humd":"Humidity",
+    "lang.wind":"Wind speed",
+    "lang.newsweather":"News and Weather report",
+    "lang.button.en":"English",
+    "lang.button.ma":"Malayalam",
+    "lang.button.ta":"Tamil",
+    "lang.button.te":"Telugu",
+    "lang.button.hi":"Hindi",
+    "lang.localnews": "News",
+    "lang.search":"search for topics",
+    "lang.sear":"Search",
+    "lang.choose":"Choose language",
+    "lang.datepublished":"Date published",
+    "lang.readfull":"Read full article"
+
+
+
+}

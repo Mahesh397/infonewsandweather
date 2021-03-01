@@ -1,0 +1,24 @@
+{
+
+    "lang.currentWeather":"ప్రస్తుత వాతావరణం",
+    "lang.loc":"స్థానం",
+    "lang.temp":"ఉష్ణోగ్రత",
+    "lang.press":"ఒత్తిడి",
+    "lang.humd":"తేమ",
+    "lang.wind":"గాలి వేగం",
+    "lang.newsweather":"వార్తలు మరియు వాతావరణ నివేదిక",
+    "lang.button.en":"ఆంగ్ల",
+    "lang.button.ma":"మలయాళం",
+    "lang.button.ta":"తమిళం",
+    "lang.button.te":"తెలుగు",
+    "lang.button.hi":"హిందీ",
+    "lang.localnews": "వార్తలు",
+    "lang.search":"అంశాల కోసం శోధించండి",
+    "lang.sear":"వెతకండి",
+    "lang.choose":"భాషను ఎంచుకోండి",
+    "lang.datepublished":"తేదీ ప్రచురించబడింది",
+    "lang.readfull":"పూర్తి వ్యాసం చదవండి"
+
+
+
+}

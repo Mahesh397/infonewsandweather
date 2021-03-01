@@ -1,0 +1,25 @@
+{
+
+    "lang.currentWeather":"தற்போதைய வானிலை",
+    "lang.loc":"இடம்",
+    "lang.temp":"வெப்ப நிலை",
+    "lang.press":"அழுத்தம்",
+    "lang.humd":"ஈரப்பதம்",
+    "lang.wind":"காற்றின் வேகம்",
+    "lang.newsweather":"செய்தி மற்றும் வானிலை அறிக்கை",
+    "lang.button.en":"ஆங்கிலம்",
+    "lang.button.ma":"மலையாளம்",
+    "lang.button.ta":"தமிழ்",
+    "lang.button.hi":"இந்தி",
+    "lang.button.te":"தெலுங்கு",
+    "lang.localnews": "செய்தி",
+    "lang.search":"தலைப்புகளைத் தேடுங்கள்",
+    "lang.sear":"தேடல்",
+    "lang.choose":"மொழியைத் தேர்வுசெய்க",
+    "lang.datepublished":"தேதி வெளியிடப்பட்டது",
+    "lang.readfull":"முழு கட்டுரையையும் படியுங்கள்"
+
+
+
+
+}

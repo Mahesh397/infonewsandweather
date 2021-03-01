@@ -1,0 +1,31 @@
+<div class="container" >
+      <div class="col-sm-">
+        <div class="card">
+          <div class="card-body">
+		<div class="col-xs-12">
+				  <h1 class="font-weight-600 mb-4">
+					{{'lang.currentWeather' | translate}}:
+				  </h1>
+				</div>
+			   <div class="col-sm-4" [@slideInOut]>
+			<h3> {{'lang.loc' | translate}}:{{ current.cityName }},{{current.country}}</h3>
+			<img src="https://openweathermap.org/img/w/{{current.icon}}.png" />
+			<h4>{{ current.weatherKind }} </h4>
+			<h4 class="text-secondary">{{'lang.temp' | translate}}: {{ current.temp }} &#8451;</h4>
+			<h4 class="text-secondary"> {{'lang.press' | translate}}: {{ current.press }} hpa</h4>
+			<h4 class="text-secondary">{{'lang.humd' | translate}}: {{ current.humd }} %</h4>
+			<h4 class="text-secondary">{{'lang.wind' | translate}}: {{ current.wind }}</h4>
+              </div>
+			</div>
+          </div>
+        </div>
+      </div>
+    
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+#header {
+    padding: 10px 16px;
+    background:#032a63;
+    color: #f1f1f1;
+    text-align: center;
+    font-size: 15px; 
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    margin-bottom: 100px;
+    width: 100%;
+    transition: 0.5s;
+    z-index:1;
+  
+}  
+
+.btn:hover{
+    background-color:blue;
+}
+
+#footer {
+    padding: 20px 16px;
+    background:#032a63;
+}  
+.content-wrapper{
+    background-color: #e6e7e8;
+}
+
+.rows{
+    height: 110px;
+}
+
+
